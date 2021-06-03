@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious message: sent to both Houses of Parliament, by Captain Henry Heron, the thirteenth of this month of April, MDCXLIII..</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19067</idno><idno type="EEBO-CITATION">99884031_193862</idno>
+  <idno type="VID">193862</idno>
+  <idno type="EEBO-PROQUEST">2264208640</idno>
+  
+            <idno type="STC">Wing C2513</idno>
+            <idno type="STC">Thomason 669.f.7[8]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[63]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[60]</idno>
+            <idno type="STC">ESTC R212651</idno>
+            <idno type="PROQUEST">ocm99884031</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884031e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193862)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[63]; C29:2[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious message: sent to both Houses of Parliament, by Captain Henry Heron, the thirteenth of this month of April, MDCXLIII..</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity,,</publisher>
+                  <pubPlace>Oxford [i.e. London], :</pubPlace>
+                  <date>1643..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual place of publication from Wing.</note>
+                  <note>Initial; Steele notation: de-  lently  to.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:193862:1"/>
+            <head>HIS MAJESTIES MOST GRACIOUS MESSAGE: Sent to both Houses of Parliament, by Captain <hi>Henry Heron,</hi>
+               <date>the Thirteenth of this Month of April, MDCXLIII.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O shew to the world how earnestly His Majesty longs for Peace, and that no successe shall make him de<g ref="char:EOLhyphen"/>sire the continuance of His Army to any other end, or for any longer time then that and untill things may be so setled, as the Law may have a full, free, and uninterrupted course for the defence and pre<g ref="char:EOLhyphen"/>servation of the rights of His Majesty, both Houses, and his good subjects.</p>
+            <p n="1">1. As soone as His Majesty is satisfied in His first Proposition concerning His own Revenue, Maga<g ref="char:EOLhyphen"/>zines, Ships, Forts, in which he desires nothing but that the just knowne Legall Rights of His Maje<g ref="char:EOLhyphen"/>stie (devolved unto Him from His Progenitors) and of the persons trusted by Him, which have vio<g ref="char:EOLhyphen"/>lently beene taken from both, be restored unto Him, and them, unlesse any just and legall exceptions a<g ref="char:EOLhyphen"/>gainst any of the persons trusted by Him (which are yet unknown to His Majesty) can be made appeare to Him.</p>
+            <p n="2">2. As soone as all the Members of both Houses shall be restored to the same capacity of sitting and voting in Parliament, as they had upon the first of January 1642. the same belonging unto them by their birthrights, and the free election of those that sent them, and having been voted from them for adhering to His Majesty in these times of distractions, His Majesty not intending that this should extend either to the Bishops, whose votes have been taken away by Bill, or to such in whose places upon new Writs, new election have been made.</p>
+            <p n="3">3. As soone as His Majesty and both Houses may be secured from such tumultuous assemblies, as to the great breach of the Priviledges, and the high dishonour of Parliaments, have formerly assembled about both Houses, and awed the Mem<g ref="char:EOLhyphen"/>bers of the same, and occasioned two severall complaints from the Lords House, and two severall desires of that House to the House of Commons to give in a Declaration against them, the complying with which desire might have prevented all these miserable distractions which have ensued, which security His Majesty conceives, can be onely setled by adjourning the Par<g ref="char:EOLhyphen"/>liament to some other place, at least twenty miles from London, the choice of which, His Majesty leaves to both Houses: His Majesty will most cheerfully and readily consent that Armies be immediately disbanded, and give a present meeting to both His Houses of Parliament at the same time and place at, and to which the Parliament shall be agreed to be adjourned.</p>
+            <p>His Majesty being most confident that the Law will then recover the due credit and estimation, and that upon a free de<g ref="char:EOLhyphen"/>bate in a full and peaceable convention of Parliament, such provisions will be made against seditious preaching and printing against His Majesty, and the established Lawes, which have been one of the chiefe causes of the present distractions, and such care will be taken concerning the legall and knowne Rights of His Majestie, and the Property and Liberty of His Subjects, that whatsoever hath been published or done in or by colour of any illegall Declaration, Ordinance or Order, of one or both Houses, or any Committee of either of them, and particularly to raise Armes without His Majesties consent, will be in such manner recalled, disclaimed, and provided against, that no Seed will remaine for the like to spring out of for the future, to di<g ref="char:EOLhyphen"/>sturb the Peace of the Kingdome, and to endanger the very being of it.</p>
+            <p>And in such convention His Majesty is resolved by His readinesse to consent to whatsoever shall bee proposed to Him by Bill for the reall good of His Subjects (and particularly for the better discovery and speedy conviction of Recusants, for the edification of the children of Papists by Protestants in the Protestant Religion, for the prevention of practices of Pa<g ref="char:EOLhyphen"/>pists against the State, and the due execution of the Lawes, and true levying of the penalties against them) to make knowne to all the world how causlesse those feares and jealousies have been raised against Him, and by that so distracted this mise<g ref="char:EOLhyphen"/>rable Kingdome.</p>
+            <p>And if this offer of His Majestie be not consented to (in which He askes nothing for which there is not apparent Ju<g ref="char:EOLhyphen"/>stice on His side) and in which He defers many things highly concerning both Himselfe and People, till a full and peaceable convention of Parliament (which in Justice He might now require) His Majesty is confident that it will then appeare to all the world, not only who is most desirous of Peace, and whose fault it is that both Armies are not disbanded, but who have been the true and first cause that this Peace was ever interrupted, or those Armies raised, and the beginning or continuance of the Warre, and the destruction and desolation of this poore King<g ref="char:EOLhyphen"/>dome (which is too likely to ensue) will not by the most interessed passionate or prejudicate person be imputed to His Majesty.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>OXFORD, Printed by <hi>Leonard Lichfield,</hi> Printer to the Vniversity, 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
